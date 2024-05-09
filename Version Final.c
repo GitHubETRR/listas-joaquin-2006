@@ -1,5 +1,5 @@
 //Le agrega una nueva variable, que me diga cuantas temporadas tiene la serie.
-//Y por ultimo, que te imprima en un texto tadas tus series.
+//Y por ultimo, que te imprima en un texto todas tus series.
 
 
 #include <stdio.h>
